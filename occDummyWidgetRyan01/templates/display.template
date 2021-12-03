@@ -1,0 +1,46 @@
+<!-- occDummyWidgetRyan01 -->
+<div id="occDummyWidgetRyan01">
+    
+    <p id="headingtext">
+    My Favourite Pizza Brands
+    <p>
+    
+    <div id="pizzabrands">
+          <img data-bind="ccResizeImage: {
+                source: 'file/collections/1441_pizzeria.jpg',
+                xsmall: '80,80',
+                medium: '120,120',
+                size:'70,70',
+                alt:'1441 Pizzeria',
+                errorSrc:'images/noImage.png',
+                errorAlt:'No Image Found'}"></img>
+
+        <img data-bind="ccResizeImage: {
+                source: 'file/collections/oven_story.png',
+                xsmall: '80,80',
+                medium: '120,120',
+                size:'70,70',
+                alt:'Oven Story Pizza',
+                errorSrc:'images/noImage.png',
+                errorAlt:'No Image Found'}"></img>
+                
+        <img data-bind="ccResizeImage: {
+                source: 'file/collections/papa_johns.jpg',
+                xsmall: '80,80',
+                medium: '120,120',
+                size:'70,70',
+                alt:'Papa Johns Pizza',
+                errorSrc:'images/noImage.png',
+                errorAlt:'No Image Found'}"></img>
+
+
+        <img data-bind="ccResizeImage: {
+                source: 'file/collections/little_caesars.png',
+                xsmall: '80,80',
+                medium: '120,120',
+                size:'70,70',
+                alt:'Little Caesars Pizza',
+                errorSrc:'images/noImage.png',
+                errorAlt:'No Image Found'}"></img>
+        </div>
+</div>
